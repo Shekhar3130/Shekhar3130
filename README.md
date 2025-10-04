@@ -40,7 +40,7 @@ I'm **Shekhar Khairnar**, a Computer Science graduate from **Sandip University, 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00818e?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shekhar-khairanar-8a4a31191)
 [![Gmail](https://img.shields.io/badge/Gmail-f1c175?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shekharkhairnar1122@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-00818e?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/Shekhar3130/Resume)
+[![Resume](https://img.shields.io/badge/Resume-00818e?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/Shekhar3130/Resume/blob/main/Shekhar.pdf)
 
 
 ## 👩‍💻 𝐒𝐤𝐢𝐥𝐥𝐬:
@@ -101,7 +101,8 @@ I'm **Shekhar Khairnar**, a Computer Science graduate from **Sandip University, 
 ## 📄 Resume
 
 You can view or download my resume here:<br>
-[![Resume](https://img.shields.io/badge/View%20Resume-00818e?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/Shekhar3130/Resume)
+[![Resume](https://img.shields.io/badge/View%20Resume-00818e?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/Shekhar3130/Resume/blob/main/Shekhar.pdf)
+
 
 
 
