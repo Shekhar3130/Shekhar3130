@@ -28,7 +28,8 @@
 <br></br>
 ## 🙋‍♂️  𝐀𝐛𝐨𝐮𝐭 𝐦𝐞: 
 
-I'm **Shekhar Khairnar**, completed **Bachelor's in Computer Science at Sandip University, Nashik. In July 2025**, I completed an internship focusing on **Machine Learning Models (Regression | Classification | Clustering | Time Series)**, gaining hands-on experience in developing and fine-tuning ML models to solve real-world challenges. Earlier, in **2025, I completed specialized Data Science training in Bangalore**. I blend my passion for data science, where I uncover patterns and tackle complex challenges.
+I'm **Shekhar Khairnar**, a Computer Science graduate from **Sandip University, Nashik**. In **July 2025**, I completed an internship focusing on **Machine Learning Models (Regression, Classification, Clustering, and Time Series)** — gaining hands-on experience developing and fine-tuning ML models to solve real-world problems. Earlier in **2025**, I completed specialized **Data Science training in Bangalore**. I’m passionate about uncovering data patterns and solving complex challenges through analytics and machine learning.
+
 
 
 📝 *I'm currently dedicated to enhancing my expertise in data science*.
@@ -39,6 +40,8 @@ I'm **Shekhar Khairnar**, completed **Bachelor's in Computer Science at Sandip U
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00818e?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shekhar-khairanar-8a4a31191)
 [![Gmail](https://img.shields.io/badge/Gmail-f1c175?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shekharkhairnar1122@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-00818e?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/Shekhar3130/Resume)
+
 
 ## 👩‍💻 𝐒𝐤𝐢𝐥𝐥𝐬:
 
@@ -75,7 +78,8 @@ I'm **Shekhar Khairnar**, completed **Bachelor's in Computer Science at Sandip U
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-00818e?style=for-the-badge&logo=Reinforcement%20Learning&logoColor=white)
 
 ## 📊 𝐀𝐜𝐭𝐢𝐯𝐢𝐭𝐲 𝐆𝐫𝐚𝐩𝐡:
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shekhar3130&bg_color=ffffff&color=000000&line=3d9bf1&point=87cefa&area=true&hide_border=true&hide_title=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shekhar3130&bg_color=0d1117&color=ffffff&line=3d9bf1&point=87cefa&area=true&hide_border=true" />
+
 
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
@@ -93,6 +97,11 @@ I'm **Shekhar Khairnar**, completed **Bachelor's in Computer Science at Sandip U
 | Movie Recommendation System             | [View](https://github.com/Shekhar3130/Movie-Recommendation-System-Machine_Learning)           | `Machine Learning`, `Python`                   |
 | Analysis-E-Commerce-Sales-Data-Created-Interactive-Dashboard-Using-Power-BI             | [View](https://github.com/Shekhar3130/Analysis-E-Commerce-Sales-Data-Created-Interactive-Dashboard-Using-Power-BI)           | `Power BI`                   |
 
+
+## 📄 Resume
+
+You can view or download my resume here:<br>
+[![Resume](https://img.shields.io/badge/View%20Resume-00818e?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/Shekhar3130/Resume)
 
 
 
